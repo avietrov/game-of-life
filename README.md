@@ -3,7 +3,7 @@ This repo is my learnign excersize of discovering and playing with new programmi
 My goal is to implement a simples command-line app that simulates the game.
 
 # TODO:
-- [ ] Haskel
+- [x] Haskel
 - [ ] Rust
 - [ ] Julia
 - [ ] Kotlin
