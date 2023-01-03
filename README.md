@@ -4,7 +4,7 @@ My goal is to implement a simples command-line app that simulates the game.
 
 # TODO:
 - [x] Haskel
-- [ ] Rust
+- [x] Rust
 - [ ] Julia
 - [ ] Kotlin
 - [ ] Modern C++
