@@ -6,7 +6,7 @@ My goal is to implement a simples command-line app that simulates the game.
 - [x] Haskel
 - [x] Rust
 - [ ] Julia
-- [ ] Kotlin
+- [x] Kotlin
 - [ ] Modern C++
 - [ ] Crystal
 - [ ] Scala
